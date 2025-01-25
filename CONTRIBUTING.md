@@ -4,7 +4,7 @@ Thank you for your help in making the Resistance Toolkit relevant and useful. Pl
 This is a WIP, please check back periodically as I will be updating this document frequently! 
 
 ## What types of contributions can you make?
-My goal is to ensure all content in this repository is accurate, up to date, and is representative of the spirit of the mission to provide tools to resist hatred. The following are the types of contributions that will be accepted. 
+My goal is to ensure all content in this repository is accurate, up to date, and is representative of the mission to provide tools to resist hatred. The following are the types of contributions that will be accepted. 
 
 ### Harmful Content
 Create an issue with the `harmful content` label. Please be specific about the content in question and provide an explanation and/or evidence to support your claim.
@@ -29,4 +29,4 @@ I am notoriously horrible at spelling... auto-correct is just about the only way
 
 ## Contributions I am not looking for.
 
-At this point I am not looking for pull requests or help in maintaining this resource, but that might change depending on the amount of feedback I receive. I will let you know. 
+At this point I am not looking contributor members, pull requests, or help in maintaining this resource. However that might change depending on the amount of feedback I receive. I will let you know. 
