@@ -3,13 +3,17 @@
 
 ![Logo for The Resistance Toolkit stylized as graffiti on a brick wall. Subtitle reads "The tools you need to resist hate."](assets/Banner.png)
 
-In the wake of all of the hatred being unleashed by politicians, it's easy to get overwhelmed and shut down. But please don't, that's what they are hoping we'll do! 
+## What is the Resistance Toolkit?
+In the wake of all of the hatred being unleashed by politicians, it's easy to get overwhelmed and shut down. But please don't, that's what they are hoping we'll do!
 
+I created this project to help myself get organized and come up with solid action items that I could work on. My hope is that this project can help you as well. We need to get organized in order to make a difference and defeat hate.
+
+### How to use it?
 
 1. Pick [a cause](#organizations--causes) that you are passionate about.
-2. Stay informed on the issues surrounding your cause.
-3. Try to come up with a couple of [concrete actions](#tools) you can take to support your cause.
-4. [Take breaks and recover](#recovery): this is a marathon, not a sprint! Find a relaxing hobby or take news and social media breaks. 
+2. Stay informed by following organizations that deal with your cause on social media or subscribing to their mailing lists.
+3. Pick a couple of [concrete actions](#tools) you can take to support your cause. Or create your own tools to help yourself and others take action. 
+4. [Take a break and recover](#recovery): this is a marathon, not a sprint! 
 5. Repeat: start back at step 1. 
 
 ## Organizations & Causes
@@ -27,9 +31,14 @@ Big thanks to **Advocate** [for inspiring and seeding this list](https://www.adv
 ### [Gun Control](causes/guns/README.md)
 ### [Climate Change](causes/climate/README.md)
 ### [Voting](causes/voting/README.md)
+### [Disabled Rights / Accessibility]()
 
 
 ## Tools & Actions
+
+### See what your organizations are suggesting
+
+Explore the websites and social media pages for organizations that support your cause. They will know best as they are on the front lines! Look for clear actions that you can take. 
 
 ### Write Your Representatives
 Make your voice heard! Write to your representatives at the local and national level. Urge them to take up your cause, or call them out on stances you disagree with. 
@@ -42,13 +51,13 @@ Make your voice heard! Write to your representatives at the local and national l
   Resistbot is a chatbot that turns your texts into faxes, postal mail, or emails to your representatives in minutes.
 
 ### Register to Vote 
-Register or checking your registration status and find out what issues are on your ballot.
+Register or check your registration status and find out what issues are on your ballot.
 - [Vote.org](https://www.vote.org/)
 - [Vote Like A Beast](https://www.votelikeabeast.com/)
 
 ### Donate 
 - Check if your chosen cause or organization is accepting donations.
-- Find out if your organization has a membership. 
+- Find out if your organization has an annual or monthly membership. 
 - [Charity Navigator](https://www.charitynavigator.org/)
 
   Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values.
