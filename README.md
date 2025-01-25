@@ -17,7 +17,7 @@ I created this project to help myself get organized and come up with solid actio
 5. Repeat: start back at step 1. 
 
 ## Organizations & Causes
-Big thanks to **Advocate** [for inspiring and seeding this list](https://www.advocate.com/politics/anti-donald-trump-charities).
+Big thanks to [**Advocate**](https://www.advocate.com/politics/anti-donald-trump-charities) for inspiring and seeding this list.
 
 
 **_About This List:_** The following are excellent organizations and causes that need our help defending democracy, our fellow citizens, and our planet. They often have clear and concise action items to take to fight back. But they will also need our support, either by donating financially or by volunteering our time. 
