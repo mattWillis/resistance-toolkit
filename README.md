@@ -24,7 +24,7 @@ Big thanks to [**Advocate**](https://www.advocate.com/politics/anti-donald-trump
 
 
 ### [Civil & Human Rights / Racism](causes/civil-rights/README.md)
-### [LGBTQA+](causes/lgbtqa+/README.md)
+### [LGBTQ+](causes/lgbtq+/README.md)
 ### [Reproductive Health](causes/reproductive-health/README.md)
 ### [Sexism / Sexual Violence](causes/sex/README.md)
 ### [Immigration](causes/immigration/README.md)

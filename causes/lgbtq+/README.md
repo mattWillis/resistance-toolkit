@@ -1,4 +1,4 @@
-# LGBTQA+
+# LGBTQ+
 
 - [GLAAD](https://https//www.glaad.org)
 
