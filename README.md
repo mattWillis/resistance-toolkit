@@ -16,9 +16,7 @@ In the wake of all of the hatred being unleashed by politicians, it's easy to ge
 Big thanks to **Advocate** [for inspiring and seeding this list](https://www.advocate.com/politics/anti-donald-trump-charities).
 
 
-**_About This List_** 
-
-The following are excellent organizations and causes that need our help defending democracy, our fellow citizens, and our planet. They often have clear and concise action items to take to fight back. But they will also need our support, either by volunteering or by donating. 
+**_About This List:_** The following are excellent organizations and causes that need our help defending democracy, our fellow citizens, and our planet. They often have clear and concise action items to take to fight back. But they will also need our support, either by donating financially or by volunteering our time. 
 
 
 ### [Civil & Human Rights / Racism](causes/civil-rights/README.md)
