@@ -62,8 +62,11 @@ Register or checking your registration status and find out what issues are on yo
 - Check if your cause or organization has volunteer openings or memberships. 
 - [VolunteerMatch.org](https://www.volunteermatch.org/)
 
-  VolunteerMatch believes that volunteering can change lives – starting with yours. When we connect with our communities and each other through service we can find our passion and purpose, build camaraderie and hope, and experience joy and gratitude. 
+  VolunteerMatch believes that volunteering can change lives – starting with yours. When we connect with our communities and each other through service we can find our passion and purpose, build camaraderie and hope, and experience joy and gratitude.
+  
 - [Volunteer as a Poll Worker](https://www.eac.gov/help-america-vote)
+
+  Poll workers are essential to ensure elections are a success. During each election, millions of Americans dedicate themselves to sustaining the backbone of democracy - our election process.
 
 ## Recovery
 - [How and Why You Should Take Social Media Breaks](https://summer.harvard.edu/blog/need-a-break-from-social-media-heres-why-you-should-and-how-to-do-it/)
