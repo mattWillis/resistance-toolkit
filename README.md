@@ -74,6 +74,31 @@ Register or check your registration status and find out what issues are on your 
 
   Poll workers are essential to ensure elections are a success. During each election, millions of Americans dedicate themselves to sustaining the backbone of democracy - our election process.
 
+### Learning / Education
+It's important to actively learn about the issues you are passionate about. Consider taking a class, read a book, or do a project that will immerse yourself into your cause.
+
+These are just a few examples. Do some research to find opportunities near you or about what you are interested in. 
+
+- [WebAIM Accessibility Training Courses](https://webaim.org/services/training/)
+
+- Online Courses, Certifications
+  - [Harvard Free Courses](https://pll.harvard.edu/catalog/free?page=1)
+    - [Women Making History: Ten Objects, Many Stories](https://pll.harvard.edu/course/women-making-history-ten-objects-many-stories)
+    - [Justice](https://pll.harvard.edu/course/justice)
+  - [OSU Online](https://online.osu.edu/)
+    - [Black Studies Certificate](https://online.osu.edu/undergraduate-certificates/black-studies-certificate/)
+    - [Diversity, Equity, and Inclusion Certificate](https://online.osu.edu/undergraduate-certificates/diversity-equity-inclusion-certificate/)
+  - [MIT OpenCourseWare](https://ocw.mit.edu/)
+    - [Congress and the American Political System I](https://ocw.mit.edu/courses/17-251-congress-and-the-american-political-system-i-fall-2016/)
+    - [Science Activism: Gender, Race, and Power](https://ocw.mit.edu/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/)
+    - [Data Storytelling Studio: Climate Change](https://ocw.mit.edu/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/)
+
+- Books (Physical or Audio)
+  - [The Truth About Immigration](https://us.macmillan.com/books/9781250288240/thetruthaboutimmigration/)
+  - [Books on Racism](https://www.powells.com/featured/antiracism)
+  - [Books by Trans Authors](https://glaad.org/eight-books-from-trans-authors-to-read-for-trans-awareness-week/)
+  - [Books on Accessibility](https://www.goodreads.com/shelf/show/accessibility)
+
 ## Recovery
 Remember to take care of your mental, physical, and spiritual health. We're in this for the long haul, make sure to recharge your batteries!
 
