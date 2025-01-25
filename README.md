@@ -83,4 +83,6 @@ Please read the [Contributing](./CONTRIBUTING.md) doc for the types of issues or
 **First time contributing to an open source project?**
 
 
-In the top left corner of this page there is a tab called "Issues". Click on it to see a list of open and closed issues (issues are tasks that need to be done, requests or questions, bug reports, etc.) This is where you will where you will help contribute to this project. 
+In the top left corner of this page there is a tab called "Issues". Click on it to see a list of open and closed issues (issues are tasks that need to be done, requests or questions, bug reports, etc.) This is where you will where you will help contribute to this project.
+
+![Github navigation bar, with the Issues tab highlighted](./assets/Screenshot%202025-01-25%20at%202.07.00 PM.png)
