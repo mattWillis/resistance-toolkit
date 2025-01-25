@@ -70,3 +70,14 @@ Register or checking your registration status and find out what issues are on yo
 - [Mindfulness Activities](https://www.healthline.com/health/mind-body/mindfulness-activities#for-adults)
 - [Find a Fitness Routine](https://www.mayoclinic.org/healthy-lifestyle/fitness/basics/fitness-basics/hlv-20049447)
 - [Make Sure You're Getting Good Sleep](https://hub.jhu.edu/at-work/2022/03/11/good-sleep-for-good-health/)
+
+
+# Contributions
+Have suggestions, comments, concerns? Or maybe you have a new feature idea you'd like to see added? I want this repo to be as helpful as possible, and I need your help!
+
+Please read the [Contributing](./CONTRIBUTING.md) doc for the types of issues or requests that are currently being accepted. 
+
+**First time contributing to an open source project?**
+
+
+In the top left corner of this page there is a tab called "Issues". Click on it to see a list of open and closed issues (issues are tasks that need to be done, requests or questions, bug reports, etc.) This is where you will where you will help contribute to this project. 
