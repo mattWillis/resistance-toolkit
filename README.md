@@ -46,9 +46,7 @@ Stay informed by following organizations that deal with your cause on social med
 
 🦋 BlueSky Social users: This is a link to a starter pack of organizations that are currently on the platform.
 
-
-![QR code to the Resistance Toolkit Starter Pack on BlueSky Social. Scan with your phone's camera to open up the link.](assets/Resistance_Toolkit_Share_Card.png)
-
+![QR code to the Resistance Toolkit Starter Pack on BlueSky Social. Scan with your phone's camera to open up the link.](assets/qr-code.png)
 
 [Resistance Toolkit Starter Pack](https://go.bsky.app/8i9FuqR)
 
