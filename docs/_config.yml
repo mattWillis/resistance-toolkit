@@ -22,7 +22,7 @@ title: Resistance Toolkit
 email: mewillis21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   All the tools you need to resist hate.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mattwillis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mattWillis
 
