@@ -1,4 +1,5 @@
-# Civil & Human Rights / Racism
+![Civil & Human Rights / Racism](../../assets/Causes-CivilRights.png)
+# Organizations
 
 ## 🌍 International
 

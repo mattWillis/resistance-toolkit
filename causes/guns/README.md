@@ -1,4 +1,5 @@
-# Gun Control 
+![Gun Control](../../assets/Causes-Guns.png)
+# Organizations
 
 ## 🇺🇸 U.S. Focused
 

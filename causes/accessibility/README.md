@@ -1,4 +1,5 @@
-# Disabled Rights / Accessibility
+![Disabled Rights / Accessibility](../../assets/Causes-Accessibility.png)
+# Organizations
 
 ## 🌍 International
 

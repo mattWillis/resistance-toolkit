@@ -1,4 +1,6 @@
-# Voting
+![Voting](../../assets/Causes-Voting.png)
+
+# Organizations
 
 ## 🇺🇸 U.S. Focused
 

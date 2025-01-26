@@ -1,4 +1,5 @@
-# LGBTQ+
+![LGBTQ](../../assets/Causes-LGBTQ.png)
+# Organizations
 
 ## 🌍 International
 
