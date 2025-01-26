@@ -21,3 +21,14 @@
 - [NAACP](https://www.naacp.org/)
 
   We envision an inclusive community rooted in liberation where all persons can exercise their civil and human rights without discrimination. We are committed to a world without racism where Black people enjoy equitable opportunities in thriving communities.
+
+- [Native American Rights Fund](https://narf.org/)
+
+  The Native American Rights Fund holds governments accountable. We fight to protect Native American rights, resources, and lifeways through litigation, legal advocacy, and legal expertise. Providing legal assistance to Native American tribes, organizations, and individuals nationwide.
+
+- [National Congress of American Indians](https://www.ncai.org/)
+  NCAI, a non-profit organization, advocates for a bright future for generations to come by taking the lead to gain consensus on a constructive and promising vision for Indian Country.
+
+- [Innocence Project](https://innocenceproject.org/)
+
+  Founded in 1992 by visionary attorneys Peter Neufeld and Barry Scheck, the Innocence Project has been at the forefront of criminal justice reform, using DNA and other scientific advancements to prove wrongful conviction.
