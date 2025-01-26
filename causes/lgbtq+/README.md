@@ -1,8 +1,12 @@
 # LGBTQ+
 
+## 🌍 International
+
 - [GLAAD](https://https//www.glaad.org)
 
   Founded in 1985, GLAAD is a non-profit organization focused on LGBTQ advocacy and cultural change. GLAAD works to ensure fair, accurate, and inclusive representation and creates national and local programs that advance LGBTQ acceptance. 
+
+## 🇺🇸 U.S. Focused
 
 - [Sylvia Rivera Law Project](https://srlp.org/)
 

@@ -6,7 +6,10 @@
 ## What is the Resistance Toolkit?
 In the wake of all of the hatred being unleashed by politicians, it's easy to get overwhelmed and shut down. But please don't, that's what they are hoping we'll do!
 
-I created this project to help myself get organized and come up with solid action items that I could work on. My hope is that this project can help you as well. We need to get organized in order to make a difference and defeat hate.
+I created this project to help myself get organized and come up with solid action items that I could work on. My hope is that this project can help you as well. We need to get organized in order to make a difference and defeat hate. 
+
+
+_Note:_ This implementation is primarily focused on U.S. politics and issues, but after some feedback I am working on an international version of this toolkit, because hate is obviously a global issue.
 
 ### How to use it?
 
@@ -60,7 +63,7 @@ Register or check your registration status and find out what issues are on your 
 - [Charity Navigator](https://www.charitynavigator.org/)
 
   Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values.
-- [Give.org](https://give.org/)
+- [Give.org](https://give.org/) 
 
   Give.org's mission: "To strengthen public confidence in charities by promoting wise giving and trustworthy charity practices". They use a standards-based charity evaluator that seeks to verify the trustworthiness of publicly-soliciting charities by completing rigorous evaluations. 
 

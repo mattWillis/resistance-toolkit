@@ -1,4 +1,7 @@
 # Gun Control 
+
+## 🇺🇸 U.S. Focused
+
 - [Everytown for Gun Safety](https://everytown.org/)
 
   We’re the largest gun violence prevention organization in America—and we’re winning. Everytown starts with you, and it starts in your neighborhood. By introducing evidence-based solutions in every town, we can end gun violence.

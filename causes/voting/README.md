@@ -1,4 +1,7 @@
 # Voting
+
+## 🇺🇸 U.S. Focused
+
 - [Common Cause](https://www.commoncause.org/)
 
   Common Cause is a nonpartisan, grassroots organization dedicated to upholding the core values of American democracy. We work to create open, honest, and accountable government that serves the public interest; promote equal rights, opportunity, and representation for all; and empower all people to make their voices heard in the political process.
