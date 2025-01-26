@@ -45,6 +45,8 @@ Big thanks to [**Advocate**](https://www.advocate.com/politics/anti-donald-trump
 ## Stay Vigilant
 ![Step 2. Stay informed.](assets/Step2.png)
 Stay informed by following organizations that deal with your cause on social media or subscribing to their mailing lists.
+
+
 ## Tools & Actions
 ![Step 3. Take action.](assets/Step3.png)
 ### See what your organizations are suggesting
