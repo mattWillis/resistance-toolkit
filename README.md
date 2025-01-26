@@ -9,7 +9,7 @@ In the wake of all of the hatred being unleashed by politicians, it's easy to ge
 I created this project to help myself get organized and come up with solid action items that I could work on. My hope is that this project can help you as well. We need to get organized in order to make a difference and defeat hate. 
 
 
-_Note:_ This implementation is primarily focused on U.S. politics and issues, but after some feedback I am working on an international version of this toolkit, because hate is obviously a global issue.
+**_Note:_** This implementation is primarily focused on U.S. politics and issues, but after some feedback I am working on an international version of this toolkit, because hate is obviously a global issue.
 
 ### How to use it?
 
