@@ -31,7 +31,7 @@ Big thanks to [**Advocate**](https://www.advocate.com/politics/anti-donald-trump
 ### [Gun Control](causes/guns/README.md)
 ### [Climate Change](causes/climate/README.md)
 ### [Voting](causes/voting/README.md)
-### [Disabled Rights / Accessibility]()
+### [Disabled Rights / Accessibility](causes/accessibility/README.md)
 
 
 ## Tools & Actions
