@@ -12,10 +12,9 @@ I know that together, we can transform feelings of hopelessness into a movement 
 
 **_Note:_** This implementation is primarily focused on **U.S. politics and issues**, but after some feedback I am working on an international version of this toolkit, because hate is obviously a global issue.
 
-## How to use it?
+## How To Use This Project?
 
 1. Pick [a cause](#organizations--causes) that you are passionate about.
-
 2. Stay informed by following organizations that deal with your cause on social media or subscribing to their mailing lists.
 3. Pick a couple of [concrete actions](#tools) you can take to support your cause. Or create your own tools to help yourself and others take action. 
 4. [Take a break and recover](#recovery): this is a marathon, not a sprint! 
@@ -54,7 +53,7 @@ Stay informed by following organizations that deal with your cause on social med
 ## Tools & Actions
 ![Step 3. Take action.](assets/Step3.png)
 
-### See what your organizations are suggesting
+### What Are Your Organizations Suggesting?
 
 Explore the websites and social media pages for organizations that support your cause. They are on the front lines so they will likely know what you should do! Look for clear actions that you can take. 
 
