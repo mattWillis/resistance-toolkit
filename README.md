@@ -72,8 +72,7 @@ Make your voice heard! Write to your representatives at the local, state, and na
   [Messenger](https://www.messenger.com/t/1224106861035505?text=resist), 
   [Instagram](https://www.instagram.com/direct/t/107534807309194/?text=), 
   [Telegram](https://t.me/resistbot?start=resist), 
-  or by text to [50409](sms://50409?&body=resist) 
-  and answer the questions texted back. In minutes, you’ll have contacted Congress or your other elected officials. [Make your letter open](https://resist.bot/letters) for maximum effect.
+  or by text to `50409` and answer the questions texted back. In minutes, you’ll have contacted Congress or your other elected officials. [Make your letter open](https://resist.bot/letters) for maximum effect.
 
 - [Find Your Congress Members](https://www.congress.gov/members/find-your-member) 
 
