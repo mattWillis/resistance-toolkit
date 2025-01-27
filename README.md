@@ -61,8 +61,7 @@ Explore the websites and social media pages for organizations that support your 
 ### Write Your Representatives
 Make your voice heard! Write to your representatives at the local, state, and national level. Urge them to take up your cause, or call them out on stances you disagree with. 
 
-<!-- - [ResistBot](https://resist.bot) -->
-- <a href="https://resist.bot" target="_blank">ResistBot</a>
+- [ResistBot](https://resist.bot)
 
   Resistbot is a chatbot that turns your texts into faxes, postal mail, or emails to your representatives in minutes.
 
@@ -76,16 +75,14 @@ Make your voice heard! Write to your representatives at the local, state, and na
   or by text to [50409](sms://50409?&body=resist) 
   and answer the questions texted back. In minutes, you’ll have contacted Congress or your other elected officials. [Make your letter open](https://resist.bot/letters) for maximum effect.
 
-<!-- - [Find Your Congress Members](https://www.congress.gov/members/find-your-member)  -->
-- <a href="https://www.congress.gov/members/find-your-member" target="_blank">Find Your Congress Members</a>
+- [Find Your Congress Members](https://www.congress.gov/members/find-your-member) 
 
 
   Enter your address to find your Senate and House representatives.
 
 ### Register to Vote 
 Register or check your registration status and find out what issues are on your ballot.
-<!-- - [Vote.org](https://www.vote.org/) -->
-- <a href="https://www.vote.org/" target="_blank">Vote.org</a>
+- [Vote.org](https://www.vote.org/)
 - [Vote Like A Beast](https://www.votelikeabeast.com/)
 
 ### Donate 
