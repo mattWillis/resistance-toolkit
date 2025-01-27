@@ -14,6 +14,10 @@
 
   With immigrant rights, trans justice, reproductive freedom, and more at risk, we’re in courts and communities across the country to protect everyone’s rights — and we need you with us.
 
+- [Equal Justice Initiative](https://eji.org/)
+
+  The Equal Justice Initiative is committed to ending mass incarceration and excessive punishment in the United States, to challenging racial and economic injustice, and to protecting basic human rights for the most vulnerable people in American society.
+
 - [Southern Poverty Law Center](https://www.splcenter.org/)
   
   With your help, we’re standing up for the most vulnerable people in society – those who have no other champion. We’re exposing hate and injustice, fighting discrimination, and providing award-winning anti-bias materials – free of charge – to schools across America.
