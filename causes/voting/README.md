@@ -25,7 +25,8 @@
   Voters of Tomorrow is a Gen Z-led 501(c)(4) organization that engages and represents young Americans in politics and government. With chapters in 20 states and a volunteer presence in all 50, we take a locally based, multifaceted approach to engaging young voters. Our team is led by a national staff of young political strategists, organizers, and policy experts.
 
   <a href="https://bsky.app/profile/votersoftomorrow.org" title="Follow on BlueSky Social">🦋 Follow</a>
-  --
+  
+  ---
 
 - [Common Cause](https://www.commoncause.org/)
 
