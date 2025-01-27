@@ -61,22 +61,31 @@ Explore the websites and social media pages for organizations that support your 
 ### Write Your Representatives
 Make your voice heard! Write to your representatives at the local, state, and national level. Urge them to take up your cause, or call them out on stances you disagree with. 
 
-- [ResistBot](https://resist.bot)
+<!-- - [ResistBot](https://resist.bot) -->
+- <a href="https://resist.bot" target="_blank">ResistBot</a>
 
   Resistbot is a chatbot that turns your texts into faxes, postal mail, or emails to your representatives in minutes.
 
   ![Resistbot illustrated character](assets/rosie.resistbot.svg)
 
-  Send the word `RESIST` to Resistbot on [Apple Messages](https://bcrw.apple.com/sms:open?service=iMessage&recipient=urn:biz:d0189b65-f844-4344-adc1-d2d01daca04e&body=resist), [Messenger](https://www.messenger.com/t/1224106861035505?text=resist), [Instagram](https://www.instagram.com/direct/t/107534807309194/?text=), [Telegram](https://t.me/resistbot?start=resist), or by text to [50409](sms://50409?&body=resist) and answer the questions texted back. In minutes, you’ll have contacted Congress or your other elected officials. [Make your letter open](https://resist.bot/letters) for maximum effect.
+  Send the word `RESIST` to Resistbot on 
+  [Apple Messages](https://bcrw.apple.com/sms:open?service=iMessage&recipient=urn:biz:d0189b65-f844-4344-adc1-d2d01daca04e&body=resist), 
+  [Messenger](https://www.messenger.com/t/1224106861035505?text=resist), 
+  [Instagram](https://www.instagram.com/direct/t/107534807309194/?text=), 
+  [Telegram](https://t.me/resistbot?start=resist), 
+  or by text to [50409](sms://50409?&body=resist) 
+  and answer the questions texted back. In minutes, you’ll have contacted Congress or your other elected officials. [Make your letter open](https://resist.bot/letters) for maximum effect.
 
-- [Find Your Congress Members](https://www.congress.gov/members/find-your-member) 
+<!-- - [Find Your Congress Members](https://www.congress.gov/members/find-your-member)  -->
+- <a href="https://www.congress.gov/members/find-your-member" target="_blank">Find Your Congress Members</a>
 
 
   Enter your address to find your Senate and House representatives.
 
 ### Register to Vote 
 Register or check your registration status and find out what issues are on your ballot.
-- [Vote.org](https://www.vote.org/)
+<!-- - [Vote.org](https://www.vote.org/) -->
+- <a href="https://www.vote.org/" target="_blank">Vote.org</a>
 - [Vote Like A Beast](https://www.votelikeabeast.com/)
 
 ### Donate 
