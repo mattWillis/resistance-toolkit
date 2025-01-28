@@ -4,7 +4,7 @@
 
 
 ## TL;DR
-To resist hate: [pick a cause](steps/step1/README.md), [stay informed](steps/step2/README.md), [take an action](#tools), [recover](#recovery), and [repeat](#organizations--causes).
+To resist hate: [pick a cause](steps/step1/README.md), [stay informed](steps/step2/README.md), [take an action](steps/step3/README.md), [recover](steps/step4/), and [repeat](steps/step1/README.md).
 
 ## What is the Resistance Toolkit?
 Learn about the creation of this project, what it's about, and its mission in the [About page](about.md).
