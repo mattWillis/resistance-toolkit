@@ -1,5 +1,7 @@
 ![Step 2. Stay informed.](../../assets/Step2.png)
 
+Ready to take action? Awesome, move to [Step 3](../step3/README.md).
+
 # How Stay Informed
 
 Stay informed by 
