@@ -1,7 +1,10 @@
 # resistance-toolkit
-<!-- ## All the tools you need to resist hate.  -->
 
 ![Logo for The Resistance Toolkit stylized as graffiti on a brick wall. Subtitle reads "The tools you need to resist hate."](assets/Poster.png)
+
+
+## TL;DR
+The mission is to create a process: pick a cause, take an action, recover, and repeat. [Skip to causes.](#organizations--causes)
 
 ## What is the Resistance Toolkit?
 Are you feeling as overwhelmed and ready to shut down as I am in the wake of all of the hatred being unleashed by politicians? 
@@ -44,11 +47,9 @@ Big thanks to [**Advocate**](https://www.advocate.com/politics/anti-donald-trump
 Stay informed by following organizations that deal with your cause on social media or subscribing to their mailing lists.
 
 
-🦋 BlueSky Social users: This is a link to a starter pack of organizations that are currently on the platform.
+🦋 BlueSky Social users: This is a link to a [starter pack of organizations](https://go.bsky.app/8i9FuqR) that are currently on the platform. 
 
 ![QR code to the Resistance Toolkit Starter Pack on BlueSky Social. Scan with your phone's camera to open up the link.](assets/qr-code.png)
-
-[Resistance Toolkit Starter Pack](https://go.bsky.app/8i9FuqR)
 
 ## Tools & Actions
 ![Step 3. Take action.](assets/Step3.png)
@@ -57,14 +58,18 @@ Stay informed by following organizations that deal with your cause on social med
 
 Explore the websites and social media pages for organizations that support your cause. They are on the front lines so they will likely know what you should do! Look for clear actions that you can take. 
 
+---
+
 ### Write Your Representatives
 Make your voice heard! Write to your representatives at the local, state, and national level. Urge them to take up your cause, or call them out on stances you disagree with. 
 
 - [ResistBot](https://resist.bot)
 
   Resistbot is a chatbot that turns your texts into faxes, postal mail, or emails to your representatives in minutes.
-
-  ![Resistbot illustrated character](assets/rosie.resistbot.svg)
+  
+  <div align="center">
+    <img src="assets/mailbot.4b7f32a3.svg" alt="Illustrated Resist bot holding an envelope.">
+  </div>
 
   Send the word `RESIST` to Resistbot on 
   [Apple Messages](https://bcrw.apple.com/sms:open?service=iMessage&recipient=urn:biz:d0189b65-f844-4344-adc1-d2d01daca04e&body=resist), 
@@ -75,22 +80,9 @@ Make your voice heard! Write to your representatives at the local, state, and na
 
 - [Find Your Congress Members](https://www.congress.gov/members/find-your-member) 
 
-
   Enter your address to find your Senate and House representatives.
 
-### Register to Vote 
-Register or check your registration status and find out what issues are on your ballot.
-- [Vote.org](https://www.vote.org/)
-- [Vote Like A Beast](https://www.votelikeabeast.com/)
-
-### Donate 
-- Check if your chosen cause or organization is accepting donations and find out if they have an annual or monthly membership. 
-- [Charity Navigator](https://www.charitynavigator.org/)
-
-  Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values.
-- [Give.org](https://give.org/) 
-
-  Give.org's mission: "To strengthen public confidence in charities by promoting wise giving and trustworthy charity practices". They use a standards-based charity evaluator that seeks to verify the trustworthiness of publicly-soliciting charities by completing rigorous evaluations. 
+---
 
 ### Volunteer
 - Check if your cause or organization has volunteer openings or memberships. 
@@ -101,6 +93,26 @@ Register or check your registration status and find out what issues are on your 
 - [Volunteer as a Poll Worker](https://www.eac.gov/help-america-vote)
 
   Poll workers are essential to ensure elections are a success. During each election, millions of Americans dedicate themselves to sustaining the backbone of democracy - our election process.
+
+---
+
+### Register to Vote 
+Register or check your registration status and find out what issues are on your ballot.
+- [Vote.org](https://www.vote.org/)
+- [Vote Like A Beast](https://www.votelikeabeast.com/)
+
+---
+
+### Donate 
+- Check if your chosen cause or organization is accepting donations and find out if they have an annual or monthly membership. 
+- [Charity Navigator](https://www.charitynavigator.org/)
+
+  Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values.
+- [Give.org](https://give.org/) 
+
+  Give.org's mission: "To strengthen public confidence in charities by promoting wise giving and trustworthy charity practices". They use a standards-based charity evaluator that seeks to verify the trustworthiness of publicly-soliciting charities by completing rigorous evaluations. 
+
+---
 
 ### Learning / Education
 It's important to actively learn about the issues you are passionate about. Consider taking a class, read a book, or do a project that will immerse yourself into your cause.
