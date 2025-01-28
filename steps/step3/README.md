@@ -17,7 +17,7 @@ Table of Contents
 Explore the websites and social media pages for organizations that support your cause. They are on the front lines so they will likely know what you should do! Look for clear actions that you can take. 
 
 ## Contact Your Representatives
-Make your voice heard! Write to your representatives at the local, state, and national level. Urge them to take up your cause, or call them out on stances you disagree with. 
+Make your voice heard! Write to or call your representatives at the local, state, and national level. Urge them to take up your cause, or call them out on stances you disagree with. Every email, letter, or message is counted and is an **important** indicator that 
 
 - [ResistBot](https://resist.bot)
 
@@ -36,9 +36,15 @@ Make your voice heard! Write to your representatives at the local, state, and na
 
   ---
 
+- [Find Your Elected Officials](https://www.usa.gov/elected-officials)
+
+  USA.gov has a tool to to find your Federal, State, and Local officials, just enter your address. They provide a **physical address**, **phone numbers**, and **social media accounts** for every elected official. 
+
+  ---
+
 - [Find Your Congress Members](https://www.congress.gov/members/find-your-member) 
 
-  Enter your address to find your Senate and House representatives.
+  Congress.gov: Enter your address to find your Senate and House representatives.
 
 ## Volunteer
 - Check if your cause or organization has volunteer openings or memberships. 
