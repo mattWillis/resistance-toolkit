@@ -1,5 +1,7 @@
 ![Voting](../../assets/Causes-Voting.png)
 
+Want to pick Voting Rights as your cause? Great! Move to [step 2](../../steps/step2/README.md).
+
 # Organizations
 
 ## 🇺🇸 U.S. Focused
@@ -41,3 +43,9 @@
   Started in 2006, VoteVets PAC and VoteVets Action Fund have been the home for progressive veterans, military families, and their civilian supporters for over 15 years. It is the first organization of its kind and the largest, with over one and a half million supporters in all 50 states. VoteVets uses public issue campaigns to relentlessly lift up the voices of veterans on matters of national security, veterans’ care, and everyday issues that affect the lives of those who served, and their families.
 
     <a href="https://bsky.app/profile/votevets.org" title="Follow on BlueSky Social">🦋 Follow</a>
+
+    ---
+
+***A note about BlueSky:** I am providing links to BlueSky because it's algorithms are open source and transparent. Don't like your feed? You can create your own or find a feed created by a fellow user.
+
+I encourage you to use social media platforms that are open sourced and decentralized (like [BlueSky](https://bsky.app/) or [Mastodon](https://joinmastodon.org/)). However, your organization might not have an account on these newer platforms, so go where your orgs are.    

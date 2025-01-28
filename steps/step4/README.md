@@ -10,3 +10,6 @@ Remember to take care of your mental, physical, and spiritual health. We're in t
 - [Make Sure You're Getting Good Sleep](https://hub.jhu.edu/at-work/2022/03/11/good-sleep-for-good-health/)
 - [Find a game that helps you destress](https://www.engadget.com/gaming/best-relaxing-video-games-140048572.html)
 - [Try meditation and/or a meditation app](https://www.headspace.com/articles/how-to-meditate-in-ten-minutes)
+
+## Congratulations
+You have completed a cycle! Once your batteries are recharged, let's do it again. Pick a new cause or complete another cycle for the same cause: [Step 1](../step1/README.md)

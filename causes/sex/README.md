@@ -1,4 +1,7 @@
 ![Sexism / Sexual Violence](../../assets/Causes-Sexism.png)
+
+Want to pick Sexism / Sexual Violence as your cause? Great! Move to [step 2](../../steps/step2/README.md).
+
 # Organizations
 
 ## 🌍 International
@@ -33,5 +36,11 @@
 
   At EMILYs List, we work to elect Democratic pro-choice women up and down the ballot and across the country with a goal of fighting for our rights and our communities.
 
-  <a href="https://bsky.app/profile/emilyslist.bsky.social" title="Follow on BlueSky Social">🦋 Follow</a> 
+  <a href="https://bsky.app/profile/emilyslist.bsky.social" title="Follow on BlueSky Social">🦋 Follow</a>
+
+  ---
+
+***A note about BlueSky:** I am providing links to BlueSky because it's algorithms are open source and transparent. Don't like your feed? You can create your own or find a feed created by a fellow user.
+
+I encourage you to use social media platforms that are open sourced and decentralized (like [BlueSky](https://bsky.app/) or [Mastodon](https://joinmastodon.org/)). However, your organization might not have an account on these newer platforms, so go where your orgs are.  
 

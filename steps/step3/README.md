@@ -1,5 +1,7 @@
 ![Step 3. Take action.](../../assets/Step3.png)
 
+Completed a task? Great! Move to [Step 4](../step4/)
+
 # Tools & Actions
 
 Table of Contents
