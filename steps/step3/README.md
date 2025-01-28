@@ -10,6 +10,7 @@ Table of Contents
 - [Volunteer](#volunteer)
 - [Register to Vote](#register-to-vote)
 - [Donate](#donate)
+- [Find Politics of Brands](#analyze-where-you-are-spending-your-money)
 - [Learning / Education](#learning--education)
 
 
@@ -71,6 +72,7 @@ Register or check your registration status and find out what issues are on your 
 
 ## Donate 
 - Check if your chosen cause or organization is accepting donations and find out if they have an annual or monthly membership. 
+
 - [Charity Navigator](https://www.charitynavigator.org/)
 
   Charity Navigator helps millions of people take action and support the causes they care about by connecting them to the best charities that align with their passions and values.
@@ -80,6 +82,26 @@ Register or check your registration status and find out what issues are on your 
 - [Give.org](https://give.org/) 
 
   Give.org's mission: "To strengthen public confidence in charities by promoting wise giving and trustworthy charity practices". They use a standards-based charity evaluator that seeks to verify the trustworthiness of publicly-soliciting charities by completing rigorous evaluations. 
+
+## Analyze Where You Are Spending Your Money
+For better, or for worse, some companies and politicians only seem to respond to boycotts or an increase in sales. So wield your purchasing power carefully! 
+
+Find companies who align with your cause and support them. 
+
+Find companies that don't support your cause and spend your money at alternative companies.
+
+- [Goods Unite Us](https://www.goodsuniteus.com/)
+  
+  Search for a company and see their politics. Do some research and spend your money wisely!
+
+  ![Screenshot of a dashboard showing breakdowns and graphs of donations a company has made.](../../assets/GoodsUniteUs.png)
+
+
+- [Open Secrets](https://www.opensecrets.org/)
+
+  Look up a politician to see who is funding their campaign. Look up a company to see who and where they are making donations to. 
+
+  ![Screenshot of a dashboard showing who has been donating to a politician.](../../assets/OS.png)
 
 ## Learning / Education
 It's important to actively learn about the issues you are passionate about. Consider taking a class, read a book, or do a project that will immerse yourself into your cause.
