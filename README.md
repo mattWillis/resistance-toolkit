@@ -7,7 +7,7 @@
 To resist hate: [pick a cause](steps/step1/README.md), [stay informed](steps/step2/README.md), [take an action](steps/step3/README.md), [recover](steps/step4/), and [repeat](steps/step1/README.md).
 
 ## What is the Resistance Toolkit?
-Learn about the creation of this project, what it's about, and its mission in the [About page](about.md).
+Learn about this project, its mission, and why it's on GitHub in the [About page](about.md).
 
 **_Note:_** This implementation is primarily focused on **U.S. politics and issues**, but after some feedback I am working on an international version of this toolkit, because hate is obviously a global issue.
 
