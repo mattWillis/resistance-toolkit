@@ -3,8 +3,19 @@
 ![Logo for The Resistance Toolkit stylized as graffiti on a brick wall. Subtitle reads "The tools you need to resist hate."](assets/Poster.png)
 
 
-## TL;DR
-To resist hate: [pick a cause](steps/step1/README.md), [stay informed](steps/step2/README.md), [take an action](steps/step3/README.md), [recover](steps/step4/), and [repeat](steps/step1/README.md).
+## Fight Hate. One step at a Time.
+
+### Click on the following banners to go to that step.
+
+[<img src="assets/Step1-Link.png" alt="Click here to pick a cause" />](steps/step1/README.md)
+
+[<img src="assets/Step2-Link.png" alt="Click here to stay informed" />](steps/step2/README.md)
+
+[<img src="assets/Step3-Link.png" alt="Click here to take an action" />](steps/step3/README.md)
+
+[<img src="assets/Step4-Link.png" alt="Click here to recover" />](steps/step4/README.md)
+
+[<img src="assets/Step5-Link.png" alt="Click here to repeat" />](steps/step5/README.md)
 
 ## What is the Resistance Toolkit?
 Learn about this project, its mission, and why it's on GitHub in the [About page](about.md).
