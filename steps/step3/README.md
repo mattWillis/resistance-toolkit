@@ -1,6 +1,6 @@
 ![Step 3. Take action.](../../assets/Step3.png)
 
-Completed a task? Great! Move to [Step 4](../step4/)
+**Completed a task? Great! Move to [Step 4](../step4/)**
 
 # Tools & Actions
 
@@ -127,3 +127,9 @@ These are just a few examples. Do some research to find opportunities near you o
   - [Books on Racism](https://www.powells.com/featured/antiracism)
   - [Books by Trans Authors](https://glaad.org/eight-books-from-trans-authors-to-read-for-trans-awareness-week/)
   - [Books on Accessibility](https://www.goodreads.com/shelf/show/accessibility)
+
+  ---
+
+  <br/>
+**Completed a task? Great! Move to [Step 4](../step4/)**
+

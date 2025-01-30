@@ -1,6 +1,6 @@
 ![Step 2. Stay informed.](../../assets/Step2.png)
 
-Ready to take action? Awesome, move to [Step 3](../step3/README.md).
+**Ready to take action? Awesome, move to [Step 3](../step3/README.md).**
 
 # How Stay Informed
 
@@ -19,4 +19,10 @@ This is a link to a [starter pack of organizations](https://go.bsky.app/8i9FuqR)
 ***A note about BlueSky:** I am providing links to BlueSky because it's algorithms are open source and transparent. Don't like your feed? You can create your own or find a feed created by a fellow user.
 
 I encourage you to use social media platforms that are open sourced and decentralized (like [BlueSky](https://bsky.app/) or [Mastodon](https://joinmastodon.org/)). However, your organization might not have an account on these newer platforms, so go where your orgs are. 
+
+---
+
+<br />
+
+**Ready to take action? Awesome, move to [Step 3](../step3/README.md).**
 

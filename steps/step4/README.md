@@ -1,5 +1,7 @@
-# Recovery
 ![Step 4. Recover.](../../assets/Step4.png)
+
+# Recovery
+
 Remember to take care of your mental, physical, and spiritual health. We're in this for the long haul, make sure to recharge your batteries!
 
  The following are some examples, but by all means, do whatever works best for you.
