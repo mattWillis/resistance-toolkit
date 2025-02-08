@@ -1,4 +1,8 @@
-# resistance-toolkit
+# Project Migrating to [resistance-toolkit-web](https://github.com/mattWillis/resistance-toolkit-web)
+
+My main focus will now be on supporting the web based version of this project! Check it out. 
+
+## resistance-toolkit
 
 ![Logo for The Resistance Toolkit stylized as graffiti on a brick wall. Subtitle reads "The tools you need to resist hate."](assets/Poster.png)
 
