@@ -1,6 +1,6 @@
 # Project Migrating to [resistance-toolkit-web](https://github.com/mattWillis/resistance-toolkit-web)
 
-My main focus will now be on supporting the web based version of this project! Check it out. 
+My main focus will now be on supporting the web based version of this project! Check it out at [https://resistance-toolkit.com/](https://resistance-toolkit.com/). 
 
 ## resistance-toolkit
 
